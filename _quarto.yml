@@ -7,8 +7,8 @@ website:
   title: "FME publication writing workshop"
   favicon: "photos/CME.png"
   
-  repo-url: https://github.com/econ149/econ149-site
-  site-url: https://econ149.github.io/econ149-site/
+  repo-url: https://github.com/ViSERDAC-2025/fme-publication-writing
+  site-url: https://viserdac-2025.github.io/fme-publication-writing
   
   sidebar:
     style: docked
