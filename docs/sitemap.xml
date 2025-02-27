@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://econ149.github.io/econ149-site/p1-overview-research-writing.html</loc>
+    <loc>https://econ149.github.io/econ149-site/p2-ref-manager-intro.html</loc>
     <lastmod>2025-02-26T09:24:19.474Z</lastmod>
   </url>
   <url>
     <loc>https://econ149.github.io/econ149-site/index.html</loc>
-    <lastmod>2025-02-26T09:48:10.870Z</lastmod>
+    <lastmod>2025-02-26T09:49:42.573Z</lastmod>
+  </url>
+  <url>
+    <loc>https://econ149.github.io/econ149-site/p1-overview-research-writing.html</loc>
+    <lastmod>2025-02-27T01:03:50.515Z</lastmod>
   </url>
 </urlset>
