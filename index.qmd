@@ -2,9 +2,7 @@
 title: ""
 ---
 
-![](photos/FME%20TrainingWorkshop.png){fig-align="center"}
-
-<br>
+![](photos/FME%20TrainingWorkshop2.png){fig-align="center"}
 
 +----------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------+----------------------+------------------------+---------------------------------------------------------------+
 | Training workshop title                                  | Topic/details                                                                                                     | Date and duration    | Resource person        | Expected output                                               |

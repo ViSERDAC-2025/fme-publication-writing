@@ -4,19 +4,17 @@ project:
 
 website:
   page-navigation: true
-  title: "Econ 149"
-  favicon: "plot/econ149-hex-logo.png"
+  title: "FME publication writing workshop"
+  favicon: "photos/CME.png"
   
   repo-url: https://github.com/econ149/econ149-site
   site-url: https://econ149.github.io/econ149-site/
   
   sidebar:
-    background: "#800000"
-    foreground: "#ffff"
     style: docked
     pinned: true
     seacrh: true
-    logo: "plot/econ149-hex-logo.png"
+    logo: "photos/CME.png"
     contents:
       - href: "index.qmd"
         text: "Home"
