@@ -27,8 +27,8 @@ title: " "
 
 - Create researcher profiles on Google Scholar, ResearchGate, ORCiD, and LinkedIn.
 - Conduct topic analysis and concept mapping.
-- Download and use the provided template to complete the tasks. Download the template here: [Task template](https://docs.google.com/document/d/1guUlKjKb73bmHQ0U9CsiKGhvWfqA9wer/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true){:target="_blank"}
-- Submit your completed output via this link: [Submission link](https://forms.gle/XrzFtUohP876euvJ7){:target="_blank"}
+- Download and use the provided template to complete the tasks. Download the template here: <a href="https://docs.google.com/document/d/1guUlKjKb73bmHQ0U9CsiKGhvWfqA9wer/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true" target="_blank">Task template</a>
+- Submit your completed output via this link: <a href="https://forms.gle/XrzFtUohP876euvJ7" target="_blank">Submission link</a>
 
 :::
 
@@ -36,7 +36,7 @@ title: " "
 
 ### Resources
 
-- [Turbocharge your writing today](https://drive.google.com/file/d/1orJ7vdYHwpK6shnby7Xqtjywrq7JKjxq/view?usp=sharing){:target="_blank"}
-- [2022 ABDC Journal Quality List](https://docs.google.com/spreadsheets/d/1jExn8STSuAKqVXQOzksnkhhU2ala0F2W/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true){:target="_blank"}
+- <a href="https://drive.google.com/file/d/1orJ7vdYHwpK6shnby7Xqtjywrq7JKjxq/view?usp=sharing" target="_blank">Turbocharge your writing today]</a>
+- <a href="https://docs.google.com/spreadsheets/d/1jExn8STSuAKqVXQOzksnkhhU2ala0F2W/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true" target="_blank">2022 ABDC Journal Quality List</a>
 
 
