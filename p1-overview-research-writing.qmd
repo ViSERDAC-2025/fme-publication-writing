@@ -4,32 +4,39 @@ title: " "
 
 ![](photos/lemuel-preciados.png)
 
+<br>
+
 ## Training materials
 
-<a href="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" target="_blank" class="btn-slides">View slides in new window</a>
+### Presentation
+
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vQEStI9w5PXFn0s0aADcHAHcyv3vi8GKMEHNG1BLXIuykcXrvYQDFAaAi0oMg__uQ/embed?start=false&loop=false&delayms=60000" target="_blank" class="btn-slides">View slides in new window</a>
 
 ::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
-<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
+<iframe width="100%" height="100%" src="https://docs.google.com/presentation/d/e/2PACX-1vQEStI9w5PXFn0s0aADcHAHcyv3vi8GKMEHNG1BLXIuykcXrvYQDFAaAi0oMg__uQ/embed?start=false&loop=false&delayms=60000" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
 
 </iframe>
 :::
 
-:::: callout-tip
-## Presentation keyboard shortcuts
+<br>
 
-::: text-line-space
-<ul>
+### Activities
 
-<li>Use <kbd>←</kbd> and <kbd>→</kbd> to navigate through the slides</li>
+::: {.callout-important}
+## Tasks
 
-<li>Use <kbd>F</kbd> to toggle full screen</li>
+- Create researcher profiles on Google Scholar, ResearchGate, ORCiD, and LinkedIn.
+- Conduct topic analysis and concept mapping.
+- Download and use the provided template to complete the tasks. Download the template here: [Task template](https://docs.google.com/document/d/1guUlKjKb73bmHQ0U9CsiKGhvWfqA9wer/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true)
+- Submit your completed output via this link: [Submission link](https://forms.gle/XrzFtUohP876euvJ7)
 
-<li>Use <kbd>O</kbd> to view an overview of all slides</li>
-
-<li>Use <kbd>?</kbd> to see a list of other shortcuts</li>
-
-</ul>
 :::
-::::
 
 <br>
+
+### Resources
+
+- [Turbocharge your writing today](https://drive.google.com/file/d/1orJ7vdYHwpK6shnby7Xqtjywrq7JKjxq/view?usp=sharing)
+- [2022 ABDC Journal Quality List](https://docs.google.com/spreadsheets/d/1jExn8STSuAKqVXQOzksnkhhU2ala0F2W/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true)
+
+
