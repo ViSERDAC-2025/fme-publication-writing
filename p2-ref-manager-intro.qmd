@@ -1,38 +1,28 @@
 ---
-title: "Tests on means"
+title: " "
 ---
 
-1.  Introduction to hypothesis testing
-2.  Parametric vs non-parametric tests
-3.  Independent sample t-test
-4.  Paired sample t-test
-5.  One-way ANOVA
-6.  Chi-square test
-
-<a href="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" target="_blank" class="btn-slides">View slides in new window</a>
-
-::: {.box style="padding-bottom:56.25%; position:relative; display:block; width: 100%"}
-<iframe width="100%" height="100%" src="https://econ149.github.io/econ149-lecture/module-1-tests-on-means" frameborder="0" allowfullscreen style="position:absolute; top:0; left: 0">
-
-</iframe>
-:::
-
-:::: callout-tip
-## Presentation keyboard shortcuts
-
-::: text-line-space
-<ul>
-
-<li>Use <kbd>←</kbd> and <kbd>→</kbd> to navigate through the slides</li>
-
-<li>Use <kbd>F</kbd> to toggle full screen</li>
-
-<li>Use <kbd>O</kbd> to view an overview of all slides</li>
-
-<li>Use <kbd>?</kbd> to see a list of other shortcuts</li>
-
-</ul>
-:::
-::::
+![](photos/christopher-llones.png)
 
 <br>
+
+## Training materials
+
+### Presentation
+
+<a href="https://www.canva.com/design/DAGgoBW6mbk/RvGdNF4zdBSUitI4daHARQ/view?embed" target="_blank" class="btn-slides">View slides in new window</a>
+
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGgoBW6mbk/RvGdNF4zdBSUitI4daHARQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+
+
+<br>
+
+
+
