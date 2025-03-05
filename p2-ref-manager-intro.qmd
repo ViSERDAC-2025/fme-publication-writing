@@ -24,5 +24,18 @@ title: " "
 
 <br>
 
+### Activities
+
+::: {.callout-important}
+## Tasks
+
+- Fill in the provided Template. You can download the template here: <a href="https://docs.google.com/document/d/1Bxll4ADw9b1IwhzWJaavkGkRz7t4b2Rt/edit?usp=sharing&ouid=100209563543563577528&rtpof=true&sd=true" target="_blank">Task template</a> For each key area/point in the first column, write a concise and clear response in the second column.
+
+- Where applicable, use Zotero to generate and insert in-text citations to support your claims and acknowledge sources. Generate the bibliography or list of references after the template.
+
+
+- Submit your completed output via this link: <a href="https://forms.gle/evZu34GfCMAUnGxr7" target="_blank">Submission link</a>
+
+:::
 
 
