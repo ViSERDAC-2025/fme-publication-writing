@@ -22,7 +22,7 @@ website:
         contents:
           - href: "p1-overview-research-writing.qmd"
             text: "Overview of research writing and publications"
-          - href: " "
+          - href: "p2-ref-manager-intro.qmd"
             text: "Structuring a journal article part 1"
           - href: " "
             text: "Structuring a journal article part 2"
